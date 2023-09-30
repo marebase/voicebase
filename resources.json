@@ -1,7 +1,7 @@
 {
     "info": "mares",
-    "hifigan_sr": {"gd": "14fOprFAIlCQkVRxsfInhEPG0n-xN4QOa", "name": "Rarity_HiFiGAN_11000"},
-    "hifigan_base": {"gd": "1-cQw1xpZpxZAh5NwfKm_HN5Ga3PP-zi-", "name": "Superres_Twilight_33000"},
+    "hifigan_sr": {"gd": "14fOprFAIlCQkVRxsfInhEPG0n-xN4QOa", "name": "Superres_Twilight_33000"},
+    "hifigan_base": {"gd": "1-cQw1xpZpxZAh5NwfKm_HN5Ga3PP-zi-", "name": "Rarity_HiFiGAN_11000"},
     "app_version": "1000",
     "models": [
         {
