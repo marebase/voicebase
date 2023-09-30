@@ -27,6 +27,22 @@
             "name": "Trixie",
             "tacotron2": {"gd": "1N68QnzgoOtwvxZX5E6tG6xLVneO539rI"},
             "hifigan": {"gd": "1YDcUDvkEwjBCPRzDsDEflMJJTXPhBFTk"}
+        },
+        {
+            "name": "Princess Luna",
+            "tacotron2": {"gd": "1YU5RvT_RODtQ33_JWs4july5firPNQrC"}
+        },
+        {
+            "name": "Princess Celestia",
+            "tacotron2": {"gd": "10lG-eUAxS7TfVxgyijfNmhMntm1AJCMd"}
+        },
+        {
+            "name": "Rainbow Dash",
+            "tacotron2": {"gd": "1XR1iSv1XtZC0OaHghJRwvsnrJzrjJMUW"}
+        },
+        {
+            "name": "Pinkie Pie",
+            "tacotron2": {"gd": "1sviP5RPX57-OIydFqL8ORHahSG_ojLEG"}
         }
     ]
 }
