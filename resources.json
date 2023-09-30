@@ -1,0 +1,26 @@
+{
+    "info": "mares",
+    "hifigan_sr": {"gd": "14fOprFAIlCQkVRxsfInhEPG0n-xN4QOa"},
+    "app_version": "1000",
+    "models": [
+        {
+            "name": "Rarity",
+            "tacotron2": {"gd": "1RC8Qx7nY6D5olnhjo3rdAuZnWx6T67bE"},
+            "hifigan": {"gd": "1-cQw1xpZpxZAh5NwfKm_HN5Ga3PP-zi-"}
+        },
+        {
+            "name": "Fluttershy",
+            "tacotron2": {"gd": "1RC8Qx7nY6D5olnhjo3rdAuZnWx6T67bE"},
+            "hifigan": {"gd": "1DneN3qn_RqptII6YxAZZK_J_9wXCe5sj"}
+        },
+        {
+            "name": "Twilight Sparkle",
+            "tacotron2": {"gd": "1wQo4D_MANiDQk4POcxGBk_v88LYQdaci"},
+            "hifigan": {"gd": "1GwDJVYZG1IGKFILjD3sF-11vJ0vN2yiK"}
+        },
+        {
+            "name": "Applejack",
+            "tacotron2": {"gd": "18zeIbTpCeRR-1oGtUe1xqtfDYcelvQ6N"}
+        }
+    ]
+}
