@@ -1,6 +1,7 @@
 {
     "info": "mares",
     "hifigan_sr": {"gd": "14fOprFAIlCQkVRxsfInhEPG0n-xN4QOa"},
+    "hifigan_base": {"gd": "1-cQw1xpZpxZAh5NwfKm_HN5Ga3PP-zi-"},
     "app_version": "1000",
     "models": [
         {
