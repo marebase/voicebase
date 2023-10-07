@@ -5,6 +5,105 @@
     "app_version": "1000",
     "models": [
         {
+            "name": "Twilight Sparkle",
+            "tacotron2": {"gd": "15QeLUGICPOv3XFE-dp98e74wHpm6hN7T"},
+            "hifigan": {"gd": "1GwDJVYZG1IGKFILjD3sF-11vJ0vN2yiK"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Pinkie Pie",
+            "tacotron2": {"gd": "1MJEAiA-NcY9CgoLWFFbswpL582Uoo_Wd"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+        
+        {
+            "name": "Applejack",
+            "tacotron2": {"gd": "1XZ5O0LFNlxw8tmDKIp8s43WdmM8PKaHj"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+        
+        {
+            "name": "Fluttershy",
+            "tacotron2": {"gd": "1LPAoWAKV7ony6gR-Jz4lceQ-djCWh26b"},
+            "hifigan": {"gd": "1Cwy_VafEucmSjyrpXc62IIk4CuhMb4Tn"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Rainbow Dash",
+            "tacotron2": {"gd": "1WO7hcszEFXWfi28lKIeToQhoSahLE6ZH"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Rarity",
+            "tacotron2": {"gd": "1rZHjI1konHF0A7kYxrfaWBAslKRIhvar"},
+            "hifigan": {"gd": "1-cQw1xpZpxZAh5NwfKm_HN5Ga3PP-zi-"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Discord",
+            "tacotron2": {"gd": "1dbD1IgciPNB982FEvQWhuAUk6GoW2j2Y"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Princess Celestia",
+            "tacotron2": {"gd": "10Uxrz5Fjnx5H4ZxsFrFhJf49acSkhTWK"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Princess Luna",
+            "tacotron2": {"gd": "1edC0ZiwPtaQAsEn5AgCslT3WYXskCOum"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Trixie",
+            "tacotron2": {"gd": "1edC0ZiwPtaQAsEn5AgCslT3WYXskCOum"},
+            "hifigan": {"gd": "1YDcUDvkEwjBCPRzDsDEflMJJTXPhBFTk"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
+            "name": "Sunset Shimmer",
+            "tacotron2": {"gd": "10I9ov74U0eBI70O_U5-wKlQmpgWKETXS"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+        
+        {
+            "name": "Legacy ------",
+            "type": "visual_separator"
+        },
+
+
+        
+        {
             "name": "Rarity",
             "tacotron2": {"gd": "1RC8Qx7nY6D5olnhjo3rdAuZnWx6T67bE"},
             "hifigan": {"gd": "1-cQw1xpZpxZAh5NwfKm_HN5Ga3PP-zi-"}
