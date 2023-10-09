@@ -90,6 +90,14 @@
         },
 
         {
+            "name": "Princess Cadance",
+            "tacotron2": {"gd": "1y0_RWafM8lDWuJO_Q5199d03Ez25pFoZ"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+
+        {
             "name": "Trixie",
             "tacotron2": {"gd": "1XbIi15W4FpTD04r0ZBUyHADL7BiOU76E"},
             "hifigan": {"gd": "1YDcUDvkEwjBCPRzDsDEflMJJTXPhBFTk"},
@@ -98,6 +106,15 @@
             "type": "tacotron2+hifigan"
         },
 
+        {
+            "name": "Maud",
+            "tacotron2": {"gd": "11L4POuqjxXWzbbpOaZz_IqI9hCHlldZE"},
+            "hifigan": {"gd": "1qpgI41wNXFcH-iKq1Y42JlBC9j0je8PW"},
+            "version": 2,
+            "version_info": "",
+            "type": "tacotron2+hifigan"
+        },
+        
         {
             "name": "Sunset Shimmer",
             "tacotron2": {"gd": "10I9ov74U0eBI70O_U5-wKlQmpgWKETXS"},
